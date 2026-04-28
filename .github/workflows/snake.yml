@@ -18,7 +18,7 @@ jobs:
           github_user_name: danushkumar-v
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#A8FF60&color_dots=#161b22,#2ea04333,#2ea043aa,#A8FF60,#7DF9FF
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#A8FF60&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
