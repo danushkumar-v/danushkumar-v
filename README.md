@@ -242,7 +242,8 @@ mahalanobis routing
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danushkumar-v&theme=dark&hide_border=true&background=0D1117&stroke=A8FF60&ring=A8FF60&fire=FF6B6B&currStreakLabel=A8FF60&sideLabels=7DF9FF&dates=8B949E" width="49%" alt="streak"/>
+[<img src="https://github-readme-streak-stats.herokuapp.com/?user=danushkumar-v&theme=dark&hide_border=true&background=0D1117&stroke=A8FF60&ring=A8FF60&fire=FF6B6B&currStreakLabel=A8FF60&sideLabels=7DF9FF&dates=8B949E" width="49%" alt="streak"/>
+](https://github-readme-streak-stats.herokuapp.com/?user=danushkumar-v&timezone=Europe%2FAmsterdam&theme=dark&hide_border=true&background=0D1117&stroke=A8FF60&ring=A8FF60&fire=FF6B6B&currStreakLabel=A8FF60&sideLabels=7DF9FF&dates=8B949E)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danushkumar-v&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=A8FF60&text_color=e6edf3" width="48%" alt="top-langs"/>
 
 <br/><br/>
