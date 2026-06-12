@@ -77,6 +77,18 @@ languages:   en (proficient) · ta (native)
 <table>
 <tr><td>
 
+**📄  Intelligent Cost-Optimized Mix Design Prediction and Engineered Strength System for Geopolymer Concrete: A Machine Learning-Based Recommender System**
+<sup>*Developments in the Built Environment* · Vol. 26, Article **100951** · Apr 2026</sup>
+<sup>B Kim, Y Natarajan, KRS Preethaa, **V Danushkumar**, J Chen et al.</sup>
+
+[![DOI](https://img.shields.io/badge/Open-Article-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://doi.org/10.1016/j.dibe.2026.100951)
+![Cites](https://img.shields.io/badge/cites-0-A8FF60?style=flat-square)
+![Field](https://img.shields.io/badge/sustainable%20materials-grey?style=flat-square)
+
+</td></tr>
+
+<tr><td>
+
 **📄  Field data-driven Sinkhole Grout Volume Prediction via ML Regression**
 <sup>*Artificial Intelligence in Geosciences* · Vol. 6 (2), Article **100159** · Oct 2025</sup>
 <sup>B Kim, Y Natarajan, KRS Preethaa, **V Danushkumar**, R Shamet, J Chen et al.</sup>
